@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/shadow-banner.png" alt="Original dark anime banner with a hooded shadow-mage, crimson light, silver smoke, and black shadows" width="100%" />
+<img src="shadow-banner.jpg" alt="Original dark anime banner with a hooded shadow-mage, crimson light, silver smoke, and black shadows" width="100%" />
 
 ### ROHIT VISHWAKARMA
 
@@ -156,6 +156,8 @@ GitHub also displays your contribution graph below the profile README.
 *Thanks for visiting. Pick a project above to open its panel.*
 
 </div>
+
+
 
 
 
