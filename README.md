@@ -1,13 +1,15 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Original manga-poster banner for Rohit Vishwakarma in fiery orange, crimson, white, and shadow-violet tones" width="100%" />
+<img src="assets/shadow-banner.png" alt="Original dark anime banner with a hooded shadow-mage, crimson light, silver smoke, and black shadows" width="100%" />
 
-### ✦ A developer's journey, one build at a time ✦
+### ROHIT VISHWAKARMA
+
+**Frontend & Full-Stack Development · Software Testing**
 
 [🌀 About](#about) · [⚔️ Toolkit](#toolkit) · [📚 Projects](#projects) · [📈 GitHub stats](#github-stats) · [🤝 Connect](#connect)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-ff6b35?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-vishwakarma-207476345/)
-[![GitHub](https://img.shields.io/badge/GitHub-8_PROJECTS-8055d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATOMIC7878?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-c41632?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-vishwakarma-207476345/)
+[![GitHub](https://img.shields.io/badge/GitHub-8_PROJECTS-c41632?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATOMIC7878?tab=repositories)
 
 </div>
 
@@ -134,9 +136,9 @@ A premium notes-sharing platform built around the idea “Where Knowledge Meets 
 
 <div align="center">
 
-[![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATOMIC7878&show_icons=true&hide_border=true&bg_color=101018&title_color=ff743d&icon_color=a987ff&text_color=f2eee8)](https://github.com/ATOMIC7878)
+[![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATOMIC7878&show_icons=true&hide_border=true&bg_color=101018&title_color=f0edf0&icon_color=d51f3d&text_color=f2eee8)](https://github.com/ATOMIC7878)
 
-[![Explore repositories](https://img.shields.io/badge/EXPLORE-REPOSITORIES-8055d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATOMIC7878?tab=repositories)
+[![Explore repositories](https://img.shields.io/badge/EXPLORE-REPOSITORIES-c41632?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATOMIC7878?tab=repositories)
 
 </div>
 
@@ -149,9 +151,12 @@ GitHub also displays your contribution graph below the profile README.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Say_hello-ff6b35?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-vishwakarma-207476345/)
-[![GitHub](https://img.shields.io/badge/GitHub-See_my_work-8055d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATOMIC7878)
+[![GitHub](https://img.shields.io/badge/GitHub-See_my_work-c41632?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATOMIC7878)
 
 *Thanks for visiting. Pick a project above to open its panel.*
 
 </div>
+
+
+
 
